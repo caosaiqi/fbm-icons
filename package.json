@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "🥑鳄梨科技 iocn库",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prebuild": "",
-    "build": ""
+    "prebuild": "node scripts/generate.js",
+    "build": "tsc && rimraf ./_lib"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/AvocadoTechOpen/fbm-icon#readme",
   "dependencies": {
-    "plop": "^3.1.1",
-    "svgson": "^5.2.1"
+    "node-plop": "^0.31.0",
+    "rimraf": "^3.0.2",
+    "svgo": "^2.8.0",
+    "typescript": "^4.7.4"
   }
 }
