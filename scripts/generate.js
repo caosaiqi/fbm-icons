@@ -60,7 +60,7 @@ const generate = async () => {
         // 添加icon
         actions.push({
           type: "add",
-          path: `_lib/${componentName}Icon.tsx`,
+          path: `componetns/${componentName}Icon.tsx`,
           templateFile: path.join(__dirname, '../plop-templates/Icon.hbs'),
           data: {
             children: optimizeSvg(`${__src}/${fileName}`),
