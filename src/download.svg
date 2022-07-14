@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / download</title>
+    <g id="Icon-/-download" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.86">
+        <path d="M6,20 L18,20 C18.5522847,20 19,19.5522847 19,19 C19,18.4477153 18.5522847,18 18,18 L6,18 C5.44771525,18 5,18.4477153 5,19 C5,19.5522847 5.44771525,20 6,20 Z M19,9 L15,9 L15,3 L9,3 L9,9 L5,9 L12,16 L19,9 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>
