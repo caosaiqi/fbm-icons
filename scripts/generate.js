@@ -84,7 +84,6 @@ const generate = async () => {
   })
 
   basic.runActions()
-
 }
 
 generate()

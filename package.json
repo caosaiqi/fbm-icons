@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "prebuild": "node scripts/generate.js",
-    "build": "tsc && rimraf ./_lib"
+    "prebuild": "rimraf ./_lib && rimraf ./lib && node scripts/generate.js",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
