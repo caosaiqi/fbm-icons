@@ -11,9 +11,6 @@
   },
   "include": [
     "components",
-    "./index.tsx"
+    "index.tsx"
   ],
-  // "files": [
-  //   "./index.tsx",
-  // ]
 }

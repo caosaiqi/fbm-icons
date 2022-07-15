@@ -1,6 +1,6 @@
 {
   "name": "fbm-icons",
-  "version": "0.0.11",
+  "version": "0.0.5",
   "description": "🥑鳄梨科技 iocn库",
   "main": "lib/index.js",
   "type": "module",
@@ -25,7 +25,7 @@
     "url": "https://github.com/AvocadoTechOpen/fbm-icon/issues"
   },
   "homepage": "https://github.com/AvocadoTechOpen/fbm-icon#readme",
-  "dependencies": {
+  "devDependencies": {
     "node-plop": "^0.31.0",
     "rimraf": "^3.0.2",
     "svgo": "^2.8.0",
