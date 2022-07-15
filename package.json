@@ -1,6 +1,6 @@
 {
   "name": "fbm-icons",
-  "version": "0.0.4-alpha.1",
+  "version": "0.0.4-alpha.2",
   "description": "🥑鳄梨科技 iocn库",
   "main": "lib/index.js",
   "type": "module",
