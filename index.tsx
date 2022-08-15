@@ -384,6 +384,8 @@ export { default as QrcodeIcon } from './components/QrcodeIcon';
 
 export { default as RecordIcon } from './components/RecordIcon';
 
+export { default as RedoIcon } from './components/RedoIcon';
+
 export { default as RefreshIcon } from './components/RefreshIcon';
 
 export { default as ReviewCircleIcon } from './components/ReviewCircleIcon';
@@ -459,6 +461,8 @@ export { default as TreeOutlineIcon } from './components/TreeOutlineIcon';
 export { default as TrendingDownIcon } from './components/TrendingDownIcon';
 
 export { default as TrendingUpIcon } from './components/TrendingUpIcon';
+
+export { default as UndoIcon } from './components/UndoIcon';
 
 export { default as UploadIcon } from './components/UploadIcon';
 

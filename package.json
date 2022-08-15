@@ -1,9 +1,11 @@
 {
   "name": "fbm-icons",
-  "version": "0.0.7",
+  "version": "0.0.10",
   "description": "🥑鳄梨科技 iocn库",
+  "author": "avocado",
   "main": "lib/index.js",
-  "type": "module",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
   "files": [
     "lib"
   ],
@@ -19,8 +21,6 @@
     "icon",
     "react"
   ],
-  "author": "avocado",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/AvocadoTechOpen/fbm-icon/issues"
   },
