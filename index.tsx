@@ -260,6 +260,8 @@ export { default as FormatUndoIcon } from './components/FormatUndoIcon';
 
 export { default as FormatVideoIcon } from './components/FormatVideoIcon';
 
+export { default as ForumIcon } from './components/ForumIcon';
+
 export { default as GridIcon } from './components/GridIcon';
 
 export { default as GridOutlineIcon } from './components/GridOutlineIcon';
