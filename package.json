@@ -1,11 +1,12 @@
 {
   "name": "fbm-icons",
-  "version": "0.0.13",
+  "version": "0.0.16",
   "description": "🥑鳄梨科技 iocn库",
   "author": "avocado",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
+  "type": "module",
   "files": [
     "lib"
   ],
