@@ -1,6 +1,6 @@
 {
   "name": "fbm-icons",
-  "version": "0.0.11",
+  "version": "0.0.13",
   "description": "🥑鳄梨科技 iocn库",
   "author": "avocado",
   "main": "lib/index.js",

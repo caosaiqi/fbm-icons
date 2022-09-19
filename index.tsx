@@ -102,6 +102,8 @@ export { default as ClockOutlineIcon } from './components/ClockOutlineIcon';
 
 export { default as CloseIcon } from './components/CloseIcon';
 
+export { default as CloudUploadIcon } from './components/CloudUploadIcon';
+
 export { default as CommentIcon } from './components/CommentIcon';
 
 export { default as CommentOutlineIcon } from './components/CommentOutlineIcon';
@@ -281,6 +283,10 @@ export { default as HomeOutlineIcon } from './components/HomeOutlineIcon';
 export { default as ImageIcon } from './components/ImageIcon';
 
 export { default as ImageOutlineIcon } from './components/ImageOutlineIcon';
+
+export { default as ImageTextIcon } from './components/ImageTextIcon';
+
+export { default as ImageTextOutlineIcon } from './components/ImageTextOutlineIcon';
 
 export { default as InfoIcon } from './components/InfoIcon';
 
@@ -503,6 +509,10 @@ export { default as VideocamPlayIcon } from './components/VideocamPlayIcon';
 export { default as VideocamPlayOutlineIcon } from './components/VideocamPlayOutlineIcon';
 
 export { default as WarningIcon } from './components/WarningIcon';
+
+export { default as WaterDropIcon } from './components/WaterDropIcon';
+
+export { default as WaterDropOutlineIcon } from './components/WaterDropOutlineIcon';
 
 export { default as WechatIcon } from './components/WechatIcon';
 

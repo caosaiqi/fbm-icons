@@ -7,7 +7,7 @@ import type { SvgIconProps } from "@mui/material/SvgIcon";
 
 const StopIcon: React.FC<SvgIconProps> = (props) => (
   <SvgIcon {...props}>
-    <path d="M12 4c-4.416 0-8 3.584-8 8s3.584 8 8 8 8-3.584 8-8-3.584-8-8-8Zm0 14.4A6.398 6.398 0 0 1 5.6 12c0-1.48.504-2.84 1.352-3.92l8.968 8.968A6.322 6.322 0 0 1 12 18.4Zm5.048-2.48L8.08 6.952A6.322 6.322 0 0 1 12 5.6c3.536 0 6.4 2.864 6.4 6.4 0 1.48-.504 2.84-1.352 3.92Z" fill="currentColor" fill-rule="evenodd" fill-opacity=".86"/>
+    <defs><clipPath id="a"><path d="M10 0c5.52 0 10 4.48 10 10s-4.48 10-10 10S0 15.52 0 10 4.48 0 10 0ZM3.69 5.1A7.902 7.902 0 0 0 2 10c0 4.42 3.58 8 8 8 1.85 0 3.55-.63 4.9-1.69ZM10 2c-1.85 0-3.55.63-4.9 1.69L16.31 14.9A7.902 7.902 0 0 0 18 10c0-4.42-3.58-8-8-8Z"/></clipPath></defs><g clip-path="url(#a)" transform="translate(2 2)"><path fill="currentColor" d="M0 0h20v20H0V0z"/></g>
   </SvgIcon>
 );
 
